@@ -9,3 +9,4 @@ function updateBalance(){
 updateBalance();
 console.log(balance);
 console.log("latest update");
+console.log("bug fix");
