@@ -8,3 +8,4 @@ function updateBalance(){
 }
 updateBalance();
 console.log(balance);
+console.log("latest update");
